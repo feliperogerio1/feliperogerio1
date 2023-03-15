@@ -4,8 +4,8 @@ Olá! Bem-vindo ao meu perfil
 
 <div>
   <a href="https://github.com/feliperogerio1">
-  <img height="100cm" src="https://github-readme-stats.vercel.app/api?username=feliperogerio1&show_icons=true&color=white&include_all_commits=truePAT_1">
-  <img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperogerio1&hide_progress=true&layout=compactPAT_1">
+  <img height="100cm" src="https://github-readme-stats.vercel.app/api?username=feliperogerio1&show_icons=true&color=white&include_all_commits=truePAT_1PAT_1">
+  <img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperogerio1&hide_progress=true&layout=compactPAT_1PAT_1">
 </div>
 
 ##
